@@ -163,7 +163,6 @@
             echo $website . "<br>";;
             echo $comment . "<br>";;
             echo $gender . "<br>";;
-            //
             ?>
         </main>
     </body>
