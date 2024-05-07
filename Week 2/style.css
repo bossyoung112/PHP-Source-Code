@@ -1,0 +1,41 @@
+.tenform {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+    padding-left: 10cm;
+}
+
+.tensp {
+    padding-left: 2cm;
+    padding-top: 5mm;
+}
+.tien {
+    padding-left: 2cm;
+    padding-top: 5mm;
+    .tien1{
+        padding-left: 10mm;
+    }
+    .tien2 {
+        padding-left: 19mm;
+    }
+}
+.soluong {
+    padding-left: 2cm;
+    padding-top: 5mm;
+    .sl1 {
+        padding-left: 8mm;
+    }
+    .sl2 {
+        padding-left: 16mm;
+    }
+}
+.congty {
+    padding-left: 2cm;
+    padding-top: 5mm;
+    .sl1 {
+        padding-left: 8mm;
+    }
+    .sl2 {
+        padding-left: 16mm;
+    }
+}

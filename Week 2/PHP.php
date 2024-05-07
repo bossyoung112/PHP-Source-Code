@@ -198,5 +198,18 @@
         //Comment: Có thể nhập hoặc không. ở trên nhiều dòng
         //gender: phải lựa chọn 1 
         ?>
+
+        <?php
+        // Lập trình hướng đối tượng:
+        //Cú pháp tạo lớp:
+        //định nghĩa đối tượng. 2 phương pháp: tạo đối tượng ngầm định, tạo đối tượng tường minh
+
+        //note: từ khoá $this là từ khoá tham chiếu đến đối tượng hiện thời, và thường nằm ở bên trong phương thức
+        // instancepf: kiểm tra xem đối tượng có thuộc về 1 lớp hay không
+        //
+
+        //BTVN: Tạo lớp product gồm [id, name, price, amount, company, year]
+        //thiết kế 1 form nhập danh sách sản phẩm, lưu vào 1 mảng và đưa ra màn hình
+        ?>
     </body>
 </html>
