@@ -1,5 +1,6 @@
 <?php
-class Home extends Controller {
+class ProductController extends Controller
+{
     public $productmodel;
     public function __construct()
     {
@@ -11,5 +12,5 @@ class Home extends Controller {
             "Page" => "home"
         ]);
     }
-}
+}   
 ?>
